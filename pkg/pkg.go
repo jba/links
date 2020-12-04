@@ -3,7 +3,7 @@
 //
 // Links
 //
-// - pkg.go.dev, https://pkg.go.dev
+// - go.dev, https://go.dev
 package pkg
 
 // Exported is a variable.
